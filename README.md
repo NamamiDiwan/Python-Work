@@ -1,6 +1,6 @@
 # My Progress in Python – Namami
 
-A collection of beginner-friendly Python practice programs I learnt during my IIT Madras Diploma. It covers the core building blocks of the language: **conditionals, loops, nested loops, and functions**. Each program solves one small, clearly stated problem, and several problems are solved in **more than one way** so the approaches can be compared side by side.
+A collection of (selected) beginner-friendly Python practice programs I solved during my IIT Madras Diploma. It covers the core building blocks of the language: **conditionals, loops, nested loops, and functions**. Each program solves one small, clearly stated problem, and several problems are solved in **more than one way** so the approaches can be compared side by side.
 
 
 ## Table of Contents
